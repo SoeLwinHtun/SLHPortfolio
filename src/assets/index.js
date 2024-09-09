@@ -24,7 +24,7 @@ import umlIcon from './tech/umlIcon.png';
 
 
 // Projects
-import CodeMinds from './projects/CodeMinds.png';
+import CodeMinds from './projects/codeMinds.png';
 import web from './projects/web.avif';
 import checkers from './projects/checkers.webp';
 import blog from './projects/blog.png';
