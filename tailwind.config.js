@@ -14,7 +14,7 @@ export default {
       primary: {
         200: '#ffffff', 
         400: 'black', 
-        500: '#848482', 
+        500: '#002366', 
         600: 'red', 
       },
       grayscale: {
