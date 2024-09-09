@@ -114,13 +114,11 @@ const projects = [
     name: 'Secure Coding: Web Development',
     description: 'The aim of this project was to develop educational resource for amateur web developers focusing on secure coding principles in the context of web application development.',
     image: web,
-    source_code_link: 'https://github.com/bl33h/connectFour',
   },
   {
     name: 'Checkers with Minimax algorithm',
     description: 'A classic checkers game featuring AI opponent with minimax algorithm.',
     image: checkers,
-    source_code_link: 'https://github.com/bl33h/clientServerChat',
   },
   {
     name: 'PHP Code Analyzer',
@@ -131,7 +129,7 @@ const projects = [
     name: 'Simple Python projects',
     description: 'Simple pure python projects for practice purpose, ranging from beginner to intermediate',
     image: python,
-    source_code_link: 'https://github.com/SoeLwinHtun/PythonProjects',
+    demo_link: 'https://github.com/SoeLwinHtun/PythonProjects',
   },
 ];
 
